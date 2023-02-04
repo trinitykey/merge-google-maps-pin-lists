@@ -1,0 +1,1 @@
+The purpose of this public repository is to motivate myself to create a solution to export or merge Google Maps pinned lists and associated their metadata so that they can be imported to another Google account.
